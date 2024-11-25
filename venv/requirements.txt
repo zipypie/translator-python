@@ -1,4 +1,0 @@
-Flask==3.0.0       # Latest Flask version with breaking changes for Python 3.7+
-Flask-Cors==4.0.0  # Remains the same as it's the latest
-tensorflow==2.17.1 # The latest version in your system, keep it unchanged
-numpy==1.26.4      # Latest version for enhanced performance and compatibility
